@@ -1,0 +1,11 @@
+## Mac OSX ##
+.DS_Store
+
+## NPM ##
+node_modules/
+
+##next##
+.next/
+
+## API keys ##
+config/youtube.js
